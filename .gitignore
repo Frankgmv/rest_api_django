@@ -1,0 +1,4 @@
+db.sqlite3
+machine_api
+.vscode
+__pycache__
